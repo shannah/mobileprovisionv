@@ -1,0 +1,5 @@
+dist
+bin
+node_modules
+private
+jdeploy-bundle

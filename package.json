@@ -1,0 +1,15 @@
+{
+  "bin": {"mobileprovisionv": "jdeploy-bundle/jdeploy.js"},
+  "author": "Steve Hannah",
+  "description": "CLI tool to validate that an iOS provisioning profile matches a given private key.",
+  "main": "index.js",
+  "preferGlobal": true,
+  "repository": "",
+  "version": "1.0.0",
+  "jdeploy": {},
+  "dependencies": {"shelljs": "^0.7.5"},
+  "license": "ISC",
+  "name": "mobileprovisionv",
+  "files": ["jdeploy-bundle"],
+  "scripts": {"test": "echo \"Error: no test specified\" && exit 1"}
+}
